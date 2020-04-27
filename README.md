@@ -11,6 +11,6 @@
 ## Author 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lucasbivar"><img src="https://avatars1.githubusercontent.com/u/42190754?s=460&u=a5cbe42a4868b2bac9615226044b9cec15cee418&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Bivar</b></sub></a><br /><a href="https://github.com/BiaChacon/be-the-hero" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/lucasbivar"><img src="https://avatars0.githubusercontent.com/u/60802661?s=460&u=f0cdbe837dc717c91999b2255973fe9584a1d352&v=4" width="100px;" alt=""/><br /><sub><b>Lucas Bivar</b></sub></a><br /><a href="https://github.com/lucasbivar" title="Code">💻</a></td>
   <tr>
 </table>
