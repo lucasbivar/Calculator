@@ -4,6 +4,6 @@
 - Framework: PyQt5
 - Download the installer [here!](https://drive.google.com/open?id=1VHe8wibhthGN1HzTKPWN_XVAEFcTJjgc)
 ---
-![](/Foto.png)
+![](/Foto.PNG)
 
 ![](/Mockup2.png)
