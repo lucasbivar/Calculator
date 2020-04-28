@@ -1,3 +1,8 @@
+<h1 align="center">
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+</h1> 
+ 
+<br/>
 # Calculator
 - Calculator provides simple mathematical functions in a beautifully designed desktop app based on the Iphone calculator.
 - Technology: Python 3
