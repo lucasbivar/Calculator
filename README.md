@@ -1,14 +1,13 @@
-<h1 align="center">
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-</h1> 
- 
-<br/>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)]
+
 # Calculator
 - Calculator provides simple mathematical functions in a beautifully designed desktop app based on the Iphone calculator.
 - Technology: Python 3
 - Framework: PyQt5
 - Download the installer [here](https://drive.google.com/open?id=1VHe8wibhthGN1HzTKPWN_XVAEFcTJjgc)!
+
 ---
+
 ![](/Foto.PNG)
 
 ![](/Mockup2.png)
